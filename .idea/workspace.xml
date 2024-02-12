@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e64b9026-52cc-4707-94d3-564bf2bf3511" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/HappyPython.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/authentication/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/authentication/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/authentication/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/authentication/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/authentication/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/authentication/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/authentication/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/authentication/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/authentication/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/context_processors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/home/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/home/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/home/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/home/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/home/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/home/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/home/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/home/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/css/dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/fonts/datta/datta-icon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/fonts/datta/fonts/pct.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/fonts/datta/fonts/pct.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/fonts/datta/fonts/pct.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/fonts/datta/fonts/pct.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/fonts/feather/css/feather.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/fonts/feather/fonts/feather.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/fonts/feather/fonts/feather.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/fonts/feather/fonts/feather.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/fonts/feather/fonts/feather.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/fonts/fontawesome/css/fontawesome-all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/fonts/fontawesome/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/fonts/fontawesome/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/fonts/fontawesome/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/fonts/fontawesome/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/fonts/fontawesome/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/fonts/fontawesome/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/fonts/fontawesome/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/fonts/fontawesome/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/fonts/fontawesome/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/fonts/fontawesome/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/fonts/fontawesome/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/fonts/fontawesome/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/fonts/fontawesome/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/fonts/fontawesome/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/browser/chrome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/browser/firefox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/browser/ie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/browser/opera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/browser/safari.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/logo-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/logo-thumb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/slider/img-slide-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/slider/img-slide-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/slider/img-slide-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/slider/img-slide-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/slider/img-slide-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/slider/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/slider/img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/slider/img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/user/avatar-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/user/avatar-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/user/avatar-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/user/avatar-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/user/avatar-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/user/user-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/user/user-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/widget/dashborad-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/widget/dashborad-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/widget/dashborad-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/widget/dashborad-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/widget/dashborad-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/widget/dashborad-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/images/widget/emoticon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/js/dark-mode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/js/pages/chart-morris-custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/js/pages/google-maps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/js/pcoded.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/js/vendor-all.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/plugins/amchart/js/amcharts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/plugins/amchart/js/ammap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/plugins/amchart/js/gauge.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/plugins/amchart/js/images/dragIconRoundBig.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/plugins/amchart/js/images/lens.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/plugins/amchart/js/light.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/plugins/amchart/js/pie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/plugins/amchart/js/radar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/plugins/amchart/js/serial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/plugins/amchart/js/usaLow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/plugins/amchart/js/worldLow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/plugins/animation/css/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/plugins/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/plugins/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/plugins/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/plugins/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/plugins/bootstrap/js/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/plugins/chart-morris/css/morris.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/plugins/chart-morris/js/morris.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/plugins/chart-morris/js/raphael.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/plugins/google-maps/js/gmaps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/plugins/jquery-scrollbar/css/jquery.scrollbar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/plugins/jquery-scrollbar/js/jquery.scrollbar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/plugins/jquery-ui/js/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/plugins/jquery/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/assets/scss/dark.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/sitemap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/accounts/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/accounts/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/home/auth-reset-password.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/home/bc_badges.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/home/bc_breadcrumb-pagination.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/home/bc_button.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/home/bc_collapse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/home/bc_tabs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/home/bc_typography.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/home/chart-morris.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/home/form_elements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/home/icon-feather.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/home/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/home/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/home/map-google.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/home/page-403.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/home/page-404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/home/page-500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/home/page-blank.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/home/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/home/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/home/tbl_bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/includes/navigation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/includes/scripts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/includes/sidebar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/layouts/base-fullscreen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/layouts/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/staticfiles/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticfiles/.gitkeep" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2cH941JcwfU4uBPVU54qDc2cc1q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Django Server.HappyPython.executor": "Run",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Programs/HappyPython",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programs\HappyPython" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="HappyPython" type="Python.DjangoServer" factoryName="Django server">
+      <module name="HappyPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e64b9026-52cc-4707-94d3-564bf2bf3511" name="Changes" comment="" />
+      <created>1707757442250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707757442250</updated>
+      <workItem from="1707757471561" duration="604000" />
+      <workItem from="1707758832136" duration="368000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
